@@ -1,10 +1,10 @@
-### Java JDk Installation process <br>
-          i) Installation <br>
-             Install JDK (Java Development Kit) <br>
+### Java JDk Installation process 
+          i) Installation 
+             Install JDK (Java Development Kit) 
 
-           Download the latest JDK from the Oracle website or use an open-source version like OpenJDK. <br>
-           Follow the installation instructions for your operating system.<br>
-          Set up your development environment<br>
+           Download the latest JDK from the Oracle website or use an open-source version like OpenJDK. </br>
+           Follow the installation instructions for your operating system.
+          Set up your development environment
  ### IntelliJ IDEA <br>
        Download and install IntelliJ IDEA from the JetBrains website. <br>
        Follow the setup instructions to configure the JDK. <br>
