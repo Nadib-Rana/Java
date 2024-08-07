@@ -1,12 +1,12 @@
 Step 2: Java Basics
-i) Installation
-Install JDK (Java Development Kit)
+i) Installation <br>
+Install JDK (Java Development Kit) <br>
 
-Download the latest JDK from the Oracle website or use an open-source version like OpenJDK.
+Download the latest JDK from the Oracle website or use an open-source version like OpenJDK. <br>
 Follow the installation instructions for your operating system.
-Set up your development environment
+Set up your development environment<br>
 
-IntelliJ IDEA
+IntelliJ IDEA <br>
 Download and install IntelliJ IDEA from the JetBrains website.
 Follow the setup instructions to configure the JDK.
 Eclipse
