@@ -19,7 +19,7 @@ public class Main {
     public static void main(String[] args) {
         Dog dog = new Dog();
         dog.eat(); // Output: This animal eats food.
-        dog.bark(); // Output: The dog barks.
+        dog.bark(); // Output: The dog barks. 
     }
 }
 
